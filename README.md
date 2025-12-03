@@ -4,10 +4,10 @@
  Este é um portfólio moderno desenvolvido para apresentar meus projetos como desenvolvedor web.
 
 ##  Tecnologias Utilizadas
-   HTML5 - CSS3 - Design Responsivo - Git e GitHub - GitHub Pages 
+   HTML5 - CSS3 - Git e GitHub - GitHub Pages 
 
 ##  Páginas do Projeto
-`index.html` — Página inicial com apresentação profissional - `projetos.html` — Cards animados com meus projetos
+`index.html` — Página inicial com apresentação profissional - `projeto.html` — Cards animados com meus projetos
 
 ##  GitHub Pages Acesse o portfólio em: 
  -> https://github.com/ViniciusBritoArcanjo/RepoPortifolio.git
