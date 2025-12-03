@@ -10,7 +10,7 @@
 `index.html` — Página inicial com apresentação profissional - `projetos.html` — Cards animados com meus projetos
 
 ##  GitHub Pages Acesse o portfólio em: 
- -> https://github.com/ViniciusBritoArcanjo/RepositorioPortifolio.git 
+ -> https://github.com/ViniciusBritoArcanjo/RepoPortifolio.git
 
 ##  Como executar
  Basta abrir o arquivo `index.html` em qualquer navegador.
